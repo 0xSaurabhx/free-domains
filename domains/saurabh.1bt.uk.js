@@ -1,5 +1,5 @@
 addSubDomain({
-  description: 'A free hosting website with a lot of features and good uptime',
+  description: 'Welcome to my portfolio!',
   domain: '1bt.uk',
   subdomain: 'saurabh',
   owner: {
